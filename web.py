@@ -3,7 +3,7 @@ from huggingface_hub import hf_hub_download
 from huggingface_hub import login
 from PIL import Image
 import os
-import cv2
+# import cv2
 import numpy as np
 import torch
 import albumentations as albu
