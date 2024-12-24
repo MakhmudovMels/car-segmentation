@@ -1,4 +1,4 @@
-# Classification of the Simpsons
+# Segmentation of car parts
 ---
 The application is designed for editing a car: changing the color of the body, lights, windows and wheels.
 
