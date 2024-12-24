@@ -1,6 +1,5 @@
 torch
-opencv-python
-opencv-python-headless==4.5.3.56
+opencv-contrib-python
 huggingface_hub
 matplotlib
 albumentations
