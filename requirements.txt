@@ -1,5 +1,7 @@
 torch
 opencv-python
 huggingface_hub
+matplotlib
 albumentations
+segmentation_models_pytorch
 streamlit==1.29.0
